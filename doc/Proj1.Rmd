@@ -378,7 +378,7 @@ We could see that teenagers care more about **college life**, **recognition**, a
 ### Summary
 By analyzing the happiness dataset, we could get the following results.
 
-- Children become the main focus once after people become parents.
+- Children become the main source of happiness once after people become parents.
 - If you know sports and video games, you can get along with single men very well.
 - Friends, family, life achievement are the most common source of happiness across all groups.
 
