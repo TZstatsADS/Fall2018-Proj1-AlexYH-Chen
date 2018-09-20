@@ -4,4 +4,5 @@ It's an analysis of HappyDB for answering the question, "What makes people happy
 ### Prerequisites
 Since the project was built in R. The latest version of R is needed. Installation of R packages tidyverse, tidytext, DT, scales,  wordcloud2, gridExtra, ngram, ggplot2, igraph, ggraph, grid is also needed.
 
-### Author: Yen-Hsiang Chen
+### Author
+Yen-Hsiang Chen
